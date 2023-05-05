@@ -25,7 +25,7 @@
 <br />
 
 <!-- Tabla de contenidos -->
-## :notebook_with_decorative_cover: Table of Contents
+## :notebook_with_decorative_cover: Tabla de contenidos
 
 - [Proyecto](#star2-about-the-project)
   * [Capturas](#camera-screenshots)
