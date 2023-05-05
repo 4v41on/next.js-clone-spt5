@@ -43,7 +43,7 @@
 <!-- Screenshots -->
 
 ### :camera: Capturas
-
+![Recurso 1](https://user-images.githubusercontent.com/41521379/236543855-74ff044f-cbe9-4ebf-a128-3029d5275cf0.png)
 
 <div align="center">
 <a href="" target="_blank"><img  src='![loginspoti5](https://user-images.githubusercontent.com/41521379/236543006-b8f8b815-cfc3-42ad-9617-3f2a8f4f3cf2.png)' alt='image'/></a>
