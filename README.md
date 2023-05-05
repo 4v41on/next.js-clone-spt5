@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://isamoreira.com/wp-content/uploads/2020/12/Spotify-logo-2048x616.png" alt="logo" width="400" height="auto" />
+  <img src="https://logodix.com/logo/14886.gif" alt="logo" width="400" height="auto" />
   
   <h1>Spoti5 Clon con NEXT.JS</h1>
   
