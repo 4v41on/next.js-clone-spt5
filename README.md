@@ -46,8 +46,7 @@
 
 
 <div align="center">
-<a href="https://spotify-clone-ten-psi.vercel.app" target="_blank"><img  src='![loginspoti5](https://user-images.githubusercontent.com/41521379/236543006-b8f8b815-cfc3-42ad-9617-3f2a8f4f3cf2.png)' alt='image'/></a>
-<a href="https://spotify-clone-ten-psi.vercel.app" target="_blank"><img  src='![Recurso 1](https://user-images.githubusercontent.com/41521379/236543007-c2cc79f9-d240-4351-b5fc-1f08567578a7.png)' alt='image'/></a>
+<a href="" target="_blank"><img  src='![loginspoti5](https://user-images.githubusercontent.com/41521379/236543006-b8f8b815-cfc3-42ad-9617-3f2a8f4f3cf2.png)' alt='image'/></a>
 </div>
 
 
