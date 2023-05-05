@@ -1,38 +1,192 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
 
-## Getting Started
+  <img src="https://isamoreira.com/wp-content/uploads/2020/12/Spotify-logo-2048x616.png" alt="logo" width="400" height="auto" />
+  
+  <h1>Spoti5 Clon con NEXT.JS</h1>
+  
+  <p>
+  Spoti5 con NEXT.JS (Middleware, Spotify API, Tailwind, NextAuth, Recoil)
+  </p>
+  
+  
 
-First, run the development server:
+   
+<h4>
+      <a href="https://spotify-clone-ten-psi.vercel.app">VER DEMO</a>
+  <span> · </span>
+    <a href="">Documentation</a>
+  <span> · </span>
+    <a href="">Report Bug</a>
+  <span> · </span>
+    <a href="">Request Feature</a>
+  </h4>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+<br />
+
+<!-- Tabla de contenidos -->
+## :notebook_with_decorative_cover: Table of Contents
+
+- [Proyecto](#star2-about-the-project)
+  * [Capturas](#camera-screenshots)
+  * [Tecnologias](#space_invader-tech-stack)
+  * [Variables de Entorno](#key-environment-variables)
+- [Como usar](#toolbox-getting-started)
+  * [Prerequisitos](#bangbang-prerequisites)
+  * [Instalacion](#gear-installation)
+  * [Correr en local](#running-run-locally)
+  * [Despliegue](#triangular_flag_on_post-deployment)
+- [Contacto](#handshake-contact)
+
+<!-- About the Project -->
+## :star2: Proyecto
+<!-- Screenshots -->
+
+### :camera: Capturas
+
+
+<div align="center">
+<a href="https://spotify-clone-ten-psi.vercel.app" target="_blank"><img  src='FOTO' alt='image'/></a>
+</div>
+
+
+## <a href="https://spotify-clone-ten-psi.vercel.app" target="_blank"DEMO 💥</a>
+
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Cliente</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+    <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Api</summary>
+  <ul>
+    <li><a href="https://developer.spotify.com">Spotify for Developers</a></li>
+  </ul>
+</details>
+<br />
+
+<table>
+    <tr>
+        <td>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
+        </td>
+                        <td>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
+        </td>
+                        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
+        </td>
+                        <td>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="" width="30" height="30" /></a>
+        </td>
+                                <td>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="" width="30" height="30" /></a>
+        </td>
+                                <td>
+<a href="#"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/other/spotify.svg" alt="" width="30" height="30" /></a>
+        </td>
+    </tr>
+</table>
+
+## :toolbox: Como usar
+
+### :bangbang: Prerequisitos
+
+- Registrate en  Spotify para desarroladores <a href='https://developer.spotify.com'>HERE</a>
+- Instala Node JS en tu bebe(pc) 👶 <a href='https://nodejs.org/en/'>Aqui 👈</a>
+
+<!-- Env Variables -->
+
+### :key: Variables de Entorno
+
+Para correr este Proyecto deberas crear estas variables de entorno 
+
+- crea una archivo llamado .env.file 📝
+- Agrega estas variables 👇
+
+`NEXT_PUBLIC_CLIENT_SECRET`
+
+`NEXT_PUBLIC_CLIENT_ID`
+
+`NEXT_PUBLIC_CLIENT_SECRET`
+
+### :gear: Instalacion
+
+
+
+Instala dependencias
+
+### :test_tube: Instalar Tailwind CSS with Next.js
+
+#### Instalar Tailwind CSS
+
+Instala tailwindcss para crear los archivos  `tailwind.config.js` y `postcss.config.js`.
+
+```
+npm install -D tailwindcss postcss autoprefixer
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+npx tailwindcss init -p
+```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- Correr en  Local  -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### :running: Local
 
-## Learn More
+Clona el proyecto desde git
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  git clone https://github.com/4v41on/next.js-clone-spt5
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Instala dependencias
+estos es un proyecto de  [Next.js](https://nextjs.org/) [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+  npm install
+```
+## Empecemos 👽
 
-## Deploy on Vercel
+Empieza el servidor
+Primero, corre el servidor de desarrollo:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+  npm run dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Estos es un proyecto de [Next.js](https://nextjs.org/) [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Abre [http://localhost:3000](http://localhost:3000) con tu navegador y disfruta 🎉🎊
+
+Puedes ya editar cualquier cosas empieza con  `pages/index.js`. La pagina se actualizar sola y podras ver los cambios
+
+[API routes](https://nextjs.org/docs/api-routes/introduction)Puede acceder en [http://localhost:3000/api/hello](http://localhost:3000/api/hello).Este endpoint puede ser editado`pages/api/hello.js`.
+
+El `pages/api` directorio es enrutado a  `/api/*`. 
+Los archivos en este directorio se tratan como [API routes](https://nextjs.org/docs/api-routes/introduction) 
+en lugar de las páginas React.
+
+
+
+
+
+## :handshake: Contact
+
+- juan.avalon4@gmail.com
+
+
+
