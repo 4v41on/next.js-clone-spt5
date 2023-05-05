@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://logodix.com/logo/14886.gif" alt="logo" width="400" height="auto" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE1MmFiMDYxNzdjMDc4YzM5YWUzNDA4YWRiOWM2ZWRkZDRkNDE1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oriOdP2XmIj1WB2og/giphy.gif" alt="logo" width="400" height="auto" />
   
   <h1>Spoti5 Clon con NEXT.JS</h1>
   
