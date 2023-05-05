@@ -47,8 +47,8 @@
 ![loginspoti5](https://user-images.githubusercontent.com/41521379/236543852-dc20a4d2-08dc-479b-969a-67d785230e05.png)
 
 
-## <a href="https://next-js-clone-spt5.vercel.app" target="_blank"DEMO 💥</a>
-## <a href="https://spotify-clone-ten-psi.vercel.app" target="_blank">LIVE DEMO 💥</a>
+
+## <a href="https://next-js-clone-spt5.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
