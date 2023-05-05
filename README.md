@@ -12,13 +12,12 @@
 
    
 <h4>
-      <a href="https://spotify-clone-ten-psi.vercel.app">VER DEMO</a>
+      <a href="https://next-js-clone-spt5.vercel.app">VER DEMO</a>
   <span> · </span>
-    <a href="">Documentation</a>
+    <a href="https://github.com/4v41on/next.js-clone-spt5">Documentation</a>
   <span> · </span>
-    <a href="">Report Bug</a>
+    <a href="https://github.com/4v41on/next.js-clone-spt5/issues">Report Bug</a>
   <span> · </span>
-    <a href="">Request Feature</a>
   </h4>
 </div>
 
